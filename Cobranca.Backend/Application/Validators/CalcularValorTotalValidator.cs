@@ -12,7 +12,8 @@ namespace Application.Validators
             RuleFor(model => model.Parcela)
                 .NotNull().WithMessage("O número da parcela precisa ser informado")
                 .NotEmpty().WithMessage("O número da parcela precisa ser informado")
-                .GreaterThanOrEqualTo(1).WithMessage("O número da parcela precisa ser maior que 0");
+                .InclusiveBetween(1, 3).WithMessage("O número da parcela precisa estar entre 1 e 3");
+
 
             RuleFor(model => model.Valor)
              .NotNull().WithMessage("O valor da parcela precisa ser informado")
