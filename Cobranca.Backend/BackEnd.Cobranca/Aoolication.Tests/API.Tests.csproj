@@ -24,9 +24,15 @@
     <None Remove="xunit.runner.visualstudio" />
     <None Remove="Moq" />
     <None Remove="Faker.Net" />
+    <None Remove="Controller.Test\" />
+    <None Remove="Application.Test\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Application\Application.csproj" />
     <ProjectReference Include="..\BackEnd.Cobranca\Api.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controller.Test\" />
+    <Folder Include="Application.Test\" />
   </ItemGroup>
 </Project>

@@ -10,3 +10,15 @@
 /Volumes/Macintosh HD - Dados/Documentos/DEV/Teste_Entrevista/Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
 /Volumes/Macintosh HD - Dados/Documentos/DEV/Teste_Entrevista/Application/obj/Debug/netcoreapp3.1/Application.dll
 /Volumes/Macintosh HD - Dados/Documentos/DEV/Teste_Entrevista/Application/obj/Debug/netcoreapp3.1/Application.pdb
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/bin/Debug/netcoreapp3.1/Application.deps.json
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/bin/Debug/netcoreapp3.1/Application.dll
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.csproj.AssemblyReference.cache
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.csproj.CoreCompileInputs.cache
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.dll
+/Users/williammessias/Documents/GitHub/MMTech.Identity/Server/Cobranca.Backend/Cobranca.Backend/Application/obj/Debug/netcoreapp3.1/Application.pdb

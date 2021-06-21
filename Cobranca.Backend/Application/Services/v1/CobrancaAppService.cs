@@ -1,8 +1,5 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Application.Interfaces.Services;
-using Application.Validators;
 using Domain.DTO;
 
 namespace Application.Services.v1

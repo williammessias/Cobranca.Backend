@@ -18,7 +18,6 @@ namespace Application.Validators
             RuleFor(model => model.Valor)
              .NotNull().WithMessage("O valor da parcela precisa ser informado")
              .GreaterThanOrEqualTo(0).WithMessage("O valor da parcela precisa ser maior ou igual a 0");
-
         }
 
     }

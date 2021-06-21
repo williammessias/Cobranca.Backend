@@ -14,9 +14,9 @@ namespace Application.Services.v1
         {
             var cliente = new ClienteResponseDto() { Erro = new ErroResponseDto() { Mensagem =  "" } };
 
-            if (id <= 0)
+            if (id <= 0 || id > 3)
             {
-                cliente.Erro.Mensagem = "O id precisa ser um número inteiro válido maior que zero.";
+                cliente.Erro.Mensagem = "O id precisa ser um número inteiro válido entre 1 e 3.";
                 return Task.FromResult(cliente);
             }
             var lista = new List<KeyValuePair<int, string>>();
